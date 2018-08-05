@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.16.0",
+    "require": "^2.4.20",
+    "sql": "^0.78.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncooperw/BAMazon.git"
+  },
+  "author": "Nicole Cooper-White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncooperw/BAMazon/issues"
+  },
+  "homepage": "https://github.com/ncooperw/BAMazon#readme"
+}
