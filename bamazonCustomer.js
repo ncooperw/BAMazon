@@ -90,6 +90,7 @@ function start() {
                     console.log("Updated Dept Sales.")
                     reprompt();
                 });
+                
             });
             } else{
                 console.log("Sorry, there is not enough in stock!");

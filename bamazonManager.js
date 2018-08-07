@@ -209,6 +209,6 @@ function reprompt() {
 };
 
 function endConnection() {
-    console.log("Thank you for shopping. Your connection is closed.");
+    console.log("Your connection is closed.");
     connection.end();
 }
