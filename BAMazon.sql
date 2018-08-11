@@ -13,6 +13,12 @@ CREATE TABLE Products(
     primary key(ItemID)
 );
 
+ALTER TABLE Products
+ADD product_sales NUMERIC (18, 2);
+
+ALTER TABLE Products
+DROP COLUMN product_sales;
+
 select * from Products;
 
 INSERT INTO Products(ProductName,DepartmentName,Price,StockQuantity)
