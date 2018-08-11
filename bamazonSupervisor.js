@@ -17,6 +17,8 @@ connection.connect(function (err) {
 });
 
 function start() {
+    console.log('_.~"~._.~"~._.~BAMamazon Supervisor Site~._.~"~._.~"~._');
+    
     inquirer.prompt([{
         type: "list",
         name: "doThing",
