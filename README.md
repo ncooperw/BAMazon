@@ -15,7 +15,8 @@ Created during Week 12 of the University of Denver Coding Bootcamp. The goal was
 ### What Each JavaScript Does
 
 1. `BamazonCustomer.js`
-![alt text](assets/customer1.png "View products and chose by ID")
+![alt text] (assets\customer1.PNG?raw=true "View products and chose by ID")
+
     * Prints the products in the store.
 
     * Prompts customer which product they would like to purchase by ID number.
