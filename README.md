@@ -15,7 +15,7 @@ Created during Week 12 of the University of Denver Coding Bootcamp. The goal was
 ### What Each JavaScript Does
 
 1. `BamazonCustomer.js`
-![alt text] (assets\customer1.PNG?raw=true "View products and chose by ID")
+![alt text](assets\customer1.PNG?raw=true "View products and chose by ID")
 
     * Prints the products in the store.
 
@@ -84,6 +84,11 @@ Created during Week 12 of the University of Denver Coding Bootcamp. The goal was
 * Visual Studio Code - Text Editor
 * MySQLWorkbench
 * Terminal/Gitbash
+
+##Video Example
+
+https://drive.google.com/file/d/1v3G3mNGPDXdlwtgAOuNWixgBhM9fCbbg/view
+
 
 ## Authors
 
